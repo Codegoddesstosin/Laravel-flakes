@@ -5,7 +5,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3">
-			<h3>Subscribe to Monthly Plan</h3>
+			<h3>Subscribe to Monthly Plan. Get the Latest intriguing Stories around the world!</h3>
 
 	<form action="/subscribe" method="POST">
 

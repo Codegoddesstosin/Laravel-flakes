@@ -15,9 +15,6 @@
     	</div>
     </div>
 
-
-
-
  @else
 
    @if(empty($post->is_premium))

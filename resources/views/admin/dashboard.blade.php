@@ -10,7 +10,7 @@
                     <div class="card-header">Dashboard</div>
 
                     <div class="card-body">
-                        Your application's dashboard.
+                     You have all the rights do whatever you want, Manage Users, Assign roles, Permission, Create Posts! All of it.
                     </div>
                 </div>
             </div>
